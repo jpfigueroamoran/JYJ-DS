@@ -40,7 +40,7 @@
    * gradient color
    */
 
-   --gradient: linear-gradient(to left top, hsl(210, 100%, 20%), hsl(80, 60%, 50%));
+   --gradient: linear-gradient(to left top, hsl(210, 100%, 20%), hsl(213, 58%, 53%));
 
   /**
    * typography
