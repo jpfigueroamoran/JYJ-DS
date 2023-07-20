@@ -23,7 +23,7 @@
   --safety-orange: hsl(210, 100%, 20%);
   --lavender-gray: hsl(0, 0%, 20%);
   --persian-rose: hsl(30, 100%, 50%);
-  --red-crayola: hsl(80, 60%, 50%);
+  --red-crayola: hsl(213, 58%, 53%);
   --eerie-black: hsl(240, 6%, 10%);
   --light-gray: hsl(0, 0%, 80%);
   --cultured-2: hsl(210, 60%, 98%);
@@ -40,7 +40,7 @@
    * gradient color
    */
 
-   --gradient: linear-gradient(to left top, hsl(210, 100%, 20%), hsl(80, 60%, 50%));
+   --gradient: linear-gradient(to left top, hsl(210, 100%, 20%), hsl(213, 58%, 53%));
 
   /**
    * typography
